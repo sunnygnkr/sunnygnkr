@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sunny Gaonkar
 - 👀 I’m interested in Big Data technologies, Rest API & Test automation using Java.
 - 🌱 I’m currently learning Big Data using Hadoop, Python and Spark .
-- 💞️ I’m looking to collaborate on anything that is creative and intersting to wok on.
+- 💞️ I’m looking to collaborate on anything that is creative and interesting to work on.
 - 📫 How to reach me : sunnygnkr93@gmail.com
 
 <!---
